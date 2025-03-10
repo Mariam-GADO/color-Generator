@@ -1,0 +1,19 @@
+body {
+    transition: background-color 1s ease; /* Animation fluide */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #FFFFFF; /* Couleur initiale */
+}
+
+#couleur-code {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+
+
+
